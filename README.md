@@ -1,1 +1,1 @@
-# RL reading group repo from the cocosci lab
+# RL reading group repo of the cocosci lab
